@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F0FFB4&height=180&section=header&text=Geiza%20Morais&fontSize=45&fontColor=BFADDB&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BFADDB&height=180&section=header&text=Hi,%20welcome%20to%20my%20GitHub!&fontSize=40&fontColor=F0FFB4&animation=fadeIn&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=BFADDB&center=true&vCenter=true&width=700&lines=Systems+Analysis+and+Development+Student;Interested+in+Software+Testing;Always+Learning+New+Technologies+%F0%9F%9A%80" />
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 👩🏻 About Me
+## About Me
 
 Hello! I'm Geiza Morais.
 
