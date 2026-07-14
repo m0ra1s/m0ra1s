@@ -75,8 +75,6 @@ The project involved:
 - Use Case diagrams
 - Functional and non-functional requirements documentation
 - Interface prototyping using Figma
-- Metrics
-- Software Testing
 - Version control with GitHub
 
 <a href="https://github.com/m0ra1s/trato-feito-ecommerce" title="View PDF now">Click here to access the repository</a>
