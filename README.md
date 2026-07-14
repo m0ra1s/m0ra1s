@@ -43,24 +43,11 @@ My previous academic background developed skills in organization, information an
 
 ---
 
-## Career Goal
-
-Seeking opportunities to develop my skills in:
-
-- Software Testing
-- Test Documentation
-- Requirements Analysis
-- Software Quality
-- Functional Testing
-- Continuous Improvement
-
----
-
 ## 💻 Technologies & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,git,github,figma,postman,selenium,jira" />
+<img src="https://skillicons.dev/icons?i=c,git,github,figma,postman,selenium" />
 
 </div>
 
@@ -75,31 +62,39 @@ Seeking opportunities to develop my skills in:
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
 ## 🛒 Trato Feito E-commerce
 
-Academic project developed for the **Software Engineering subject** as part of my Systems Analysis and Development degree.
+Academic project developed for the Software Engineering subject as part of my Systems Analysis and Development degree.
 
 The project involved:
 
+- Software Engineering
 - Requirements engineering
 - Use Case diagrams
 - Functional and non-functional requirements documentation
 - Interface prototyping using Figma
+- Metrics
+- Software Testing
 - Version control with GitHub
 
+<a href="https://github.com/m0ra1s/trato-feito-ecommerce" title="View PDF now">Click here to access the repository</a>
 
-## 📘 CodeCity - Python E-book
+## 📘 Prompts recipe to create a ebook - Codecity
 
 Educational e-book created with AI support to introduce Python programming concepts through a creative and accessible approach.
 
 The project explores:
 
+- Prompts engineering
 - Python learning materials
 - Technical documentation
 - Educational content creation
 - Generative AI tools
+
+<a href="https://github.com/m0ra1s/prompts-recipe-to-create-a-ebook/blob/main/output/E-book_CodeCity_Py.pdf" title="View PDF now">Click here to access the repository</a>  
+<a href="https://github.com/m0ra1s/prompts-recipe-to-create-a-ebook/blob/main/output/E-book_CodeCity_Py.pdf" title="View PDF now">Click here to access the ebook</a>
 
 ---
 
