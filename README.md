@@ -93,7 +93,7 @@ The project explores:
 - Educational content creation
 - Generative AI tools
 
-<a href="https://github.com/m0ra1s/prompts-recipe-to-create-a-ebook/blob/main/output/E-book_CodeCity_Py.pdf" title="View PDF now">Click here to access the repository</a>  
+<a href="https://github.com/m0ra1s/prompts-recipe-to-create-a-ebook" title="View PDF now">Click here to access the repository</a>  
 <a href="https://github.com/m0ra1s/prompts-recipe-to-create-a-ebook/blob/main/output/E-book_CodeCity_Py.pdf" title="View PDF now">Click here to access the ebook</a>
 
 ---
